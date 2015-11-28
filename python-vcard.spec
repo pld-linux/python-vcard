@@ -2,7 +2,7 @@
 Summary:	vCard validator, class and utility functions
 Name:		python-%{module}
 Version:	0.7.4
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Development/Languages
 URL:		http://sourceforge.net/projects/vcard-module/
